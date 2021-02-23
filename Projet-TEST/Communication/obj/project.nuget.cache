@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FK8v16tjbrwwko6FT+s6Zw4G0P6xPf+mZEIAggj+nSEEfleLPmv2njyEzlh9AJ/MrFMdg5pcS33dnBOtH7icw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aurel\\source\\repos\\Projet-TEST\\Communication\\Communication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aurel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aurel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

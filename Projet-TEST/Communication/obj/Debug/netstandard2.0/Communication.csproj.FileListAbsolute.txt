@@ -1,0 +1,9 @@
+C:\Users\aurel\source\repos\Projet-TEST\Communication\bin\Debug\netstandard2.0\Communication.deps.json
+C:\Users\aurel\source\repos\Projet-TEST\Communication\bin\Debug\netstandard2.0\Communication.dll
+C:\Users\aurel\source\repos\Projet-TEST\Communication\bin\Debug\netstandard2.0\Communication.pdb
+C:\Users\aurel\source\repos\Projet-TEST\Communication\obj\Debug\netstandard2.0\Communication.csprojAssemblyReference.cache
+C:\Users\aurel\source\repos\Projet-TEST\Communication\obj\Debug\netstandard2.0\Communication.AssemblyInfoInputs.cache
+C:\Users\aurel\source\repos\Projet-TEST\Communication\obj\Debug\netstandard2.0\Communication.AssemblyInfo.cs
+C:\Users\aurel\source\repos\Projet-TEST\Communication\obj\Debug\netstandard2.0\Communication.csproj.CoreCompileInputs.cache
+C:\Users\aurel\source\repos\Projet-TEST\Communication\obj\Debug\netstandard2.0\Communication.dll
+C:\Users\aurel\source\repos\Projet-TEST\Communication\obj\Debug\netstandard2.0\Communication.pdb

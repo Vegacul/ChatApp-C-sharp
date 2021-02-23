@@ -1,0 +1,15 @@
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.csprojAssemblyReference.cache
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.Accueil.resources
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.Login.resources
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.MenuApp.resources
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.Properties.Resources.resources
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.Signin.resources
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.Topic.resources
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.csproj.GenerateResource.cache
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.csproj.CoreCompileInputs.cache
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\bin\Debug\WindowsFormsAppPROJET.exe.config
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\bin\Debug\WindowsFormsAppPROJET.exe
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\bin\Debug\WindowsFormsAppPROJET.pdb
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.exe
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.pdb
+C:\Users\aurel\source\repos\WindowsFormsAppPROJET\WindowsFormsAppPROJET\obj\Debug\WindowsFormsAppPROJET.TopicNew.resources

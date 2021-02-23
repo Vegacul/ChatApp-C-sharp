@@ -1,0 +1,16 @@
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\ConsoleAppClient.exe
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\ConsoleAppClient.deps.json
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\ConsoleAppClient.runtimeconfig.json
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\ConsoleAppClient.runtimeconfig.dev.json
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\ConsoleAppClient.dll
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\ConsoleAppClient.pdb
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\Communication.dll
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\bin\Debug\netcoreapp3.1\Communication.pdb
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.csprojAssemblyReference.cache
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.AssemblyInfoInputs.cache
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.AssemblyInfo.cs
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.csproj.CopyComplete
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.dll
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.pdb
+C:\Users\aurel\source\repos\Projet-TEST\ConsoleAppClient\obj\Debug\netcoreapp3.1\ConsoleAppClient.genruntimeconfig.cache
